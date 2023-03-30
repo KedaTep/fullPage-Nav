@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  color: #fff;
+}
+
+.s1 {
+  background: url("../images/florian-klauer-LmkaYtMpNS8-unsplash.jpg");
+  background-size: cover;
+}
+
+.s2 {
+  background: url("../images/trevor-brown-tU7nirYOM-c-unsplash.jpg");
+  background-size: cover;
+}
+.s2 h1 {
+  text-align: left;
+  margin-left: 2em;
+  font-size: 2.5em;
+}
+
+.s3 {
+  background: url("../images/omar-prestwich-ZzGFUVMV-ao-unsplash.jpg");
+  background-size: cover;
+}
+.s3 h1 {
+  text-align: right;
+  margin-right: 5em;
+  font-size: 2em;
+}/*# sourceMappingURL=main.css.map */
